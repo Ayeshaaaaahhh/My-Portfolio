@@ -47,5 +47,3 @@ Charesh Angeline Rapirap
 ## Credits
 Sakura favicon/icon from Flaticon:
 https://www.flaticon.com/free-icons/sakura
-```bash
-git clone https://github.com/Ayeshaaaaahhh/My-Portfolio.git
