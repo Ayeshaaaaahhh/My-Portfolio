@@ -1,11 +1,43 @@
+# Personal Portfolio
 
-  # Create new design
+Welcome to my personal portfolio website ✨
 
-  This is a code bundle for Create new design. The original project is available at https://www.figma.com/design/djVeCeCGrD7uo0b477k87g/Create-new-design.
+This project showcases my:
+- Skills
+- Projects
+- Experience
+- Creative works
+- Personal branding as a developer/designer
 
-  ## Running the code
+Built using modern web technologies including:
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
+- ShadCN UI
 
-  Run `npm i` to install the dependencies.
+## Features
 
-  Run `npm run dev` to start the development server.
-  
+- Responsive modern UI
+- Interactive animations and hover effects
+- Minimalist blossom-inspired aesthetic
+- Project showcase section
+- About Me section
+- Contact section
+
+## Install dependencies
+npm install
+
+## Run the development server
+npm run dev
+
+## Installation
+
+Clone the repository:
+```bash
+git clone https://github.com/Ayeshaaaaahhh/My-Portfolio.git
+
+
+
+```bash
+git clone https://github.com/Ayeshaaaaahhh/My-Portfolio.git
