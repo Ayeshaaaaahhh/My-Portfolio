@@ -36,8 +36,16 @@ npm run dev
 Clone the repository:
 ```bash
 git clone https://github.com/Ayeshaaaaahhh/My-Portfolio.git
+```
 
+## Deployment
+This project can be deployed using Vercel
 
+## Author
+Charesh Angeline Rapirap
 
+## Credits
+Sakura favicon/icon from Flaticon:
+https://www.flaticon.com/free-icons/sakura
 ```bash
 git clone https://github.com/Ayeshaaaaahhh/My-Portfolio.git
